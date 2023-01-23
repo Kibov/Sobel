@@ -1,0 +1,5 @@
+C:\Users\kibkib\source\repos\APLProjectSobel\x64\Debug\Release\net6.0-windows\UI.exe
+C:\Users\kibkib\source\repos\APLProjectSobel\x64\Debug\Release\net6.0-windows\UI.deps.json
+C:\Users\kibkib\source\repos\APLProjectSobel\x64\Debug\Release\net6.0-windows\UI.runtimeconfig.json
+C:\Users\kibkib\source\repos\APLProjectSobel\x64\Debug\Release\net6.0-windows\UI.dll
+C:\Users\kibkib\source\repos\APLProjectSobel\x64\Debug\Release\net6.0-windows\UI.pdb
